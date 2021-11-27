@@ -1,1 +1,1 @@
-web: pip install . -U && common_functions-run
+web: pip install . -U && common_functions
